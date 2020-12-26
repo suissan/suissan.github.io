@@ -20,7 +20,6 @@
   * 爆弾魔
   * 神様のダンス
   * レプリカント  
-<img src="./img/yorusikaLogo.png" width="300">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
@@ -60,7 +59,8 @@
 
 # Contact
 - Gmail： s.yukai1567@gmail.com
-- [Twitter](https://mobile.twitter.com/szk0245)
+- [Twitter](https://mobile.twitter.com/szk0245)  
+<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/szk0245?ref_src=twsrc%5Etfw">Tweets by szk0245</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
