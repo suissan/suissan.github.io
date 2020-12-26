@@ -29,10 +29,19 @@
   
   <br>
   
-  # Skills
-使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
-- OS（Windows,Ubuntuなど）
-- Languages（JavaScriptなど）
-- Engine,Frameworks (Node.js, Expressなど)
-- Tool,MiddleWare（Git, PostgreSQLなど）
-- 資格、免許（情報処理技術者、LPICなど）
+# Skills
+- Windows, Ubuntu
+- JavaScript, node.js（Express, Webpack）
+- Git, GitHub, Heroku, circleCI, PostgreSQL
+
+<br>
+
+# Works
+* [work](https://suissan.github.io/proCon2020/laterRock-paper-scissors.html)
+
+<br>
+
+# Contact
+- Gmail： s.yukai1567@gmail.com
+- [Twitter](https://mobile.twitter.com/szk0245)
+  
