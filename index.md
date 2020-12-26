@@ -30,7 +30,7 @@
   <br>
   
 # Skills
-- Windows, Ubuntu
+- Windows, Linux
 - JavaScript, node.js（Express, Webpack）
 - Git, GitHub, Heroku, circleCI, PostgreSQL
 
@@ -44,4 +44,9 @@
 # Contact
 - Gmail： s.yukai1567@gmail.com
 - [Twitter](https://mobile.twitter.com/szk0245)
-  
+
+<br>
+
+# History
+- 2019年 角川ドワンゴ学園 [N高等学校](URL) 入学
+- 2019年 2020年 プログラミングコンテスト健闘賞
