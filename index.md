@@ -20,7 +20,7 @@
   * 爆弾魔
   * 神様のダンス
   * レプリカント
-<img src="./img/ヨルシカロゴ.jpg" width="150">
+<img src="./img/ヨルシカロゴ.jpg" width="300">
 
 * ゲーム
   * ポケモン > スイクンが嫁ポケ
@@ -33,7 +33,7 @@
 * アニメ
   * 冴えカノ > 英梨々（激推し）
   * 他にもあるけど ↑ がずば抜けすぎて忘れた
-<img src="./img/eriri2.jpg" width="150">
+<img src="./img/eriri2.jpg" width="300">
   
   <br>
   
