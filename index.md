@@ -1,4 +1,4 @@
-<img src="./img/seaMyShadow.jpg" width="500">
+<img src="./img/seaMyShadow.png" width="500">
 
 <br>
 
@@ -20,7 +20,7 @@
   * 爆弾魔
   * 神様のダンス
   * レプリカント
-<img src="./img/ヨルシカロゴ.jpg" width="300">
+<img src="./img/yorusikaLogo.png" width="300">
 
 
 * ゲーム
@@ -28,13 +28,13 @@
   * モンハン > ハンマー、ドスジャギィ、ブラキディオス、ラギアクルスが主な成分
   * スマブラ > キャプテン・ファルコン
   * ゼノブレイド（2も） > ダンバンさん！！！とニアちゃん
-<img src="./img/トレーナーカード.png" width="300">
+<img src="./img/trainerCard.png" width="300">
 
 
 * アニメ
   * 冴えカノ > 英梨々（激推し）
   * 他にもあるけど ↑ がずば抜けすぎて忘れた
-<img src="./img/eriri2.jpg" width="300">
+<img src="./img/eriri2.png" width="300">
 
   
   <br>
