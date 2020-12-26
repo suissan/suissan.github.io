@@ -21,6 +21,7 @@
   * 神様のダンス
   * レプリカント  
 <img src="./img/yorusikaLogo.png" width="300">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * ゲーム
   * ポケモン > スイクンが嫁ポケ
