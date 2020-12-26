@@ -1,4 +1,4 @@
-![プロフィール写真](familySuicune.jpg)
+![プロフィール写真](./img/familySuicune.jpg)
 
 <br>
 
