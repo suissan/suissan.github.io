@@ -30,6 +30,7 @@
 <br>
 <img src="./img/trainerCard.png" width="300">
 
+<br>
 * アニメ
   * 冴えカノ > 英梨々（激推し）
   * 他にもあるけど ↑ がずば抜けすぎて忘れた  
