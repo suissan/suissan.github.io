@@ -23,23 +23,28 @@
 <img src="./img/yorusikaLogo.png" width="300">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 * ゲーム
   * ポケモン > スイクンが嫁ポケ
   * モンハン > ハンマー、ドスジャギィ、ブラキディオス、ラギアクルスが主な成分
   * スマブラ > キャプテン・ファルコン
   * ゼノブレイド（2も） > ダンバンさん！！！とニアちゃん  
+
 <br>
+
 <img src="./img/trainerCard.png" width="300">
 
 <br>
+
 * アニメ
   * 冴えカノ > 英梨々（激推し）
   * 他にもあるけど ↑ がずば抜けすぎて忘れた  
 <br>
+
 <img src="./img/eriri2.png" width="300">
 
-  
-  <br>
+<br>
   
 # Skills
 - Windows, Linux
