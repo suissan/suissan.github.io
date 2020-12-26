@@ -1,3 +1,7 @@
+![プロフィール写真](familySuicune.jpg)
+
+<br>
+
 # 誰？
 - suis です (▽o▽ゞ
 - 学生プログラマ
