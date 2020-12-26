@@ -1,5 +1,5 @@
 ![プロフィール写真](./img/familySuicune.jpg)
-<img src="./img/familySuicune.jpg" width="150">
+<img src="./img/familySuicune.jpg" width="500">
 
 <br>
 
