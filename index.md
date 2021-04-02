@@ -9,27 +9,28 @@
 <br>
 
 # 具体的にどんな人？
-2019年からプログラミング勉強始めました。suis です！  
+2019年からプログラミング勉強始めました。suis です。  
 プログラミング経験は中級者くらい。学校はドワンゴが提携している N高等学校。  
 趣味はもちろんプログラミング。他にも聞き専音楽、コンシューマーゲーム、アニメ、散歩も一応（？）
 
 <br>
 
-# ふぇいばりっと！
-* 音楽（ヨルシカ成分多め）
+# ふぇいばりっと
+* 音楽（基本ヨルシカしか聴きません）
   * 爆弾魔
   * 神様のダンス
-  * レプリカント  
+  * レプリカント
+  * 強盗と花束  
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 * ゲーム
-  * ポケモン > スイクンが嫁ポケ
-  * モンハン > ハンマー、ドスジャギィ、ブラキディオス、ラギアクルスが主な成分
-  * スマブラ > キャプテン・ファルコン
-  * ゼノブレイド（2も） > ダンバンさん！！！とニアちゃん  
+  * ポケモン： スイクンとバンギラス
+  * モンハン： ハンマー、ドスジャギィ、ブラキディオス、ラギアクルス
+  * スマブラ： キャプテン・ファルコン（F-ZEROもちゃんとプレイてました）
+  * ゼノブレイド（2も）： ダンバンさん、とニアちゃん  
 
 <br>
 
@@ -38,11 +39,7 @@
 <br>
 
 * アニメ
-  * 冴えカノ > 英梨々（激推し）
-  * 他にもあるけど ↑ がずば抜けすぎて忘れた  
-<br>
-
-<img src="./img/eriri2.png" width="300">
+  * アニメも割と見ますが書くとキリがないのでここは省略...
 
 <br>
   
@@ -54,7 +51,9 @@
 <br>
 
 # Works
-* [work](https://suissan.github.io/proCon2020/laterRock-paper-scissors.html)
+* [後出しじゃんけんゲーム](https://suissan.github.io/proCon2020/laterRock-paper-scissors.html)
+* [えくすたーなるとぅいったー](https://morning-reaches-66777.herokuapp.com/)
+* [半自動IOくん](https://fast-savannah-21150.herokuapp.com/)
 
 <br>
 
