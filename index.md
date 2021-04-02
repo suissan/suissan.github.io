@@ -18,11 +18,15 @@
 # ふぇいばりっと
 * 音楽（基本ヨルシカしか聴きません）
   * 爆弾魔
+  * 藍二乗
   * 神様のダンス
   * レプリカント
+  * 思想犯
   * 強盗と花束  
 <br>
-下記の「言って。」「春泥棒」是非聴いてみて下さい！
+<dl>
+  <dt>下記の「言って。」「春泥棒」是非聞いてみて下さい！</dt>
+</dl> 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
