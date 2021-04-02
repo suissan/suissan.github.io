@@ -54,6 +54,7 @@
 * [後出しじゃんけんゲーム](https://suissan.github.io/proCon2020/laterRock-paper-scissors.html)
 * [えくすたーなるとぅいったー](https://morning-reaches-66777.herokuapp.com/)
 * [半自動IOくん](https://fast-savannah-21150.herokuapp.com/)
+* [予定調整（学校の教材で作成したものです）](https://hidden-island-26044.herokuapp.com/)
 
 <br>
 
