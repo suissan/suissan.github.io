@@ -21,8 +21,11 @@
   * 神様のダンス
   * レプリカント
   * 強盗と花束  
+### 下記の「言って。」「春泥棒」是非聴いてみて下さい！
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sw1Flgub9s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
