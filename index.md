@@ -1,4 +1,4 @@
-<img src="./img/seaMyShadow.png" width="500">
+<img src="./img/profile.jpg" width="500">
 
 <br>
 
